@@ -1,16 +1,8 @@
-# clone_fb
+This is my first Flutter app, it have:
+ - Simple UI with stateless widget
+ - Statefull widget to control counter 
 
-Coursera course
+![demo](https://user-images.githubusercontent.com/59736798/145003955-acf0c81f-b090-47de-9e11-7d0d7d6cb776.png)
+![image](https://user-images.githubusercontent.com/59736798/145004120-7fa8c468-04e8-4ece-a8ae-cde1b3f7de91.png)
+![image](https://user-images.githubusercontent.com/59736798/145004160-1b2538f6-d142-48fa-a8a8-7bbbabd344aa.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
